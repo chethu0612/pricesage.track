@@ -33,7 +33,7 @@ Developed using Next.js and Bright Data's webunlocker, this e-commerce product s
 
 
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
